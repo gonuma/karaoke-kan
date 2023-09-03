@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "karaoke_kan",
+    "slug": "karaoke_kan",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "karaoke_kan"
+}
